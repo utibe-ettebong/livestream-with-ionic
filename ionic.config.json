@@ -1,0 +1,7 @@
+{
+  "name": "GLH Livestream",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
